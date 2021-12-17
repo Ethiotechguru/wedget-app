@@ -33,7 +33,7 @@ const Translate = () => {
     return (
 		<div>
 			<div style={style}>
-				<label>Enter Text</label>
+				<label>Search for What Ever you want</label>
 				<input
 					value={term}
 					type="text"
