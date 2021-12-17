@@ -12,6 +12,7 @@ const style ={
 const App = () => {
   return (
 		<div style={style}>
+			<h1>Hello Africa</h1>
 			{/* <Nav /> */}
 			{/* {window.location.pathname === "/" ? (
 				<Accordion items={items} />
